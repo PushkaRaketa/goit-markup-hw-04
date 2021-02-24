@@ -102,6 +102,7 @@ header {
 
 .tel-icon,
 .mail-icon {
+  fill: currentColor;
   margin-right: 10px;
 }
 
